@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>SAMPLE HTML PAGE CRETED BY DOCKERFILE</h1>
+<p>Th eold index.html file was replaced by custome html file.If you are seeing this mssg
+it means the replacement hs worked.
+
+This is new Index file which containes the details after configuring the pipeline.
+
+If this appears, then it confirms that CI/CD is working3 and webhook is also working.</p>
+
+</body>
+</html>
