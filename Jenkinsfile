@@ -1,8 +1,8 @@
 pipeline 
 {
-    agent('jenkins-node01-w')
-    {
-        stage('Hello') 
+    agent any
+    stages {
+        stage('Build') 
         {
             steps 
             {
